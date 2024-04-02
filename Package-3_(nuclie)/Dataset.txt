@@ -1,1 +1,15 @@
-source: https://www.kaggle.com/competitions/data-science-bowl-2018/data
+Type of visualisation 
+
+Basic			Advance
+Line chart 		3d graph
+bar plot		heatmap
+histogram		correlogram
+pie chart		mosmic map
+dot plots
+box plot
+scatter plot
+kernel density plot
+
+
+Line chart: 
+	    plot(v,type,main,col,xlab,ylab)
